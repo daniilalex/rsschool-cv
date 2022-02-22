@@ -37,3 +37,22 @@ function toCamelCase(str) {
 }
 console.log(toCamelCase("the_stealth_warrior"));
 ```
+## Education 
+---
+* **Bachelor, BSA(Baltic States Academy)**
+   * Public relations faculty
+* **IT-Code Academy**
+   * Basic knowledge of programming. Front-end basic course.
+* **Udemy courses**
+   * HTML, CSS, JavaScript
+* **Modular Vocational Training Program For Energy Equipment Installer**
+
+## Languages 
+---
+* Russian(native)
+* Lithuanian
+* English
+   * [Skyeng:](https://student.skyengschool.com/) General, Upper-Intermediate
+---
+
+![RS](https://elvinyeka.github.io/rsschool-cv/img/rs_school_js.svg)
