@@ -32,30 +32,38 @@ Over 10 years in the transport sector, from an entry-level manager to the chief 
 
 ### EDUCATION
 
-**Code Academy School**
+**Code Academy School**  
 2021 - 2022
+
 Front-end and PHP programming course
+
 Good knowledge of HTML, CSS, vanilla JS and vanilla PHP with frameworks such as CodeIgniter and Laravel
 
 **BSA International Baltic Academy**
+
 2007 - 2011
+
 Bachelor's degree
+
 Public Relations, Advertising and Applied Communication
 
 ---
 
 ### WORK EXPERIENCE
 
-**LUVITUS UAB
+**LUVITUS UAB  
 CEO**
+
 2013-2022
 
 - Organization of international transportation of cargoes by road
 - Planning, management, control
 - Well developed-time management skill
 
-**AMBERGATE UAB
-TRANSPORT MANAGER**
+\*\*AMBERGATE UAB
+
+TRANSPORT MANAGER\*\*
+
 2011-2012
 
 - Delivery of the goods by both land and air means of transport
@@ -66,7 +74,9 @@ TRANSPORT MANAGER**
 #### LICENSES
 
 **EF SET Certificate**
+
 EF International Language Campuses
+
 [_credential_](https://www.efset.org/cert/do1sro)
 
 ---
