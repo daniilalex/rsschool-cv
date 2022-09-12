@@ -7,8 +7,8 @@
 #### CONTACTS
 
 - _daniil.alex1@gmail.com_
-- [_linkedin_](linkedin.com/in/daniil-aleksejev-5324bb64)
-- [_github_](https://github.com/daniilalex)
+- [_linkedIn_](linkedin.com/in/daniil-aleksejev-5324bb64)
+- [_GitHub_](https://github.com/daniilalex)
 - _+370 6111 5 999_
 
   ***
@@ -35,7 +35,7 @@ Over 10 years in the transport sector, from an entry-level manager to the chief 
 **Code Academy School**
 2021 - 2022
 Front-end and PHP programming course
-Good knowledge of HTML, CSS, vanilla JS and vanilla PHP with frameworks such as Codelgniter and Laravel
+Good knowledge of HTML, CSS, vanilla JS and vanilla PHP with frameworks such as CodeIgniter and Laravel
 
 **BSA International Baltic Academy**
 2007 - 2011
