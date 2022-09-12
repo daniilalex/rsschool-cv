@@ -7,7 +7,7 @@
 #### CONTACTS
 
 - _daniil.alex1@gmail.com_
-- [_linkedIn_](linkedin.com/in/daniil-aleksejev-5324bb64)
+- [_LinkedIn_](linkedin.com/in/daniil-aleksejev-5324bb64)
 - [_GitHub_](https://github.com/daniilalex)
 - _+370 6111 5 999_
 
@@ -33,18 +33,13 @@ Over 10 years in the transport sector, from an entry-level manager to the chief 
 ### EDUCATION
 
 **Code Academy School**  
-2021 - 2022
-
-Front-end and PHP programming course
-
+2021 - 2022  
+Front-end and PHP programming course  
 Good knowledge of HTML, CSS, vanilla JS and vanilla PHP with frameworks such as CodeIgniter and Laravel
 
-**BSA International Baltic Academy**
-
-2007 - 2011
-
-Bachelor's degree
-
+**BSA International Baltic Academy**  
+2007 - 2011  
+Bachelor's degree  
 Public Relations, Advertising and Applied Communication
 
 ---
@@ -52,8 +47,7 @@ Public Relations, Advertising and Applied Communication
 ### WORK EXPERIENCE
 
 **LUVITUS UAB  
-CEO**
-
+CEO**  
 2013-2022
 
 - Organization of international transportation of cargoes by road
@@ -73,10 +67,8 @@ TRANSPORT MANAGER\*\*
 
 #### LICENSES
 
-**EF SET Certificate**
-
-EF International Language Campuses
-
+**EF SET Certificate**  
+EF International Language Campuses  
 [_credential_](https://www.efset.org/cert/do1sro)
 
 ---
