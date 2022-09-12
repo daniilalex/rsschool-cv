@@ -46,16 +46,16 @@ Public Relations, Advertising and Applied Communication
 
 ### WORK EXPERIENCE
 
-**LUVITUS UAB  
-CEO**  
+**LUVITUS UAB**
+**CEO**  
 2013-2022
 
 - Organization of international transportation of cargoes by road
 - Planning, management, control
 - Well developed-time management skill
 
-**AMBERGATE UAB  
-TRANSPORT MANAGER**
+**AMBERGATE UAB**  
+**TRANSPORT MANAGER**
 
 2011-2012
 
