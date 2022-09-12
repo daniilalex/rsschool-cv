@@ -54,9 +54,8 @@ CEO**
 - Planning, management, control
 - Well developed-time management skill
 
-\*\*AMBERGATE UAB
-
-TRANSPORT MANAGER\*\*
+**AMBERGATE UAB  
+TRANSPORT MANAGER**
 
 2011-2012
 
